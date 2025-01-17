@@ -1,1 +1,9 @@
 /META-INF/
+/target/
+target/
+
+.classPath
+.project
+.setting/
+
+*.log
