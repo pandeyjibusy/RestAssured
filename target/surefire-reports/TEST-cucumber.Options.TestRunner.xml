@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="cucumber.Options.TestRunner" time="9.094" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="cucumber.options" value="--tags @DeletePlace"/>
+    <property name="java.vm.version" value="21.0.5+9-LTS-239"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Jyotsna Pandey\eclipse-workspace\APIFramework"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Jyotsna Pandey\eclipse-workspace\APIFramework"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="21.0.5+9-LTS-239"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Jyotsna Pandey\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Oculus\Support\oculus-runtime;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Java\jre1.8.0_281\bin;%TRICENTIS_HOME%;%TBOX_HOME%\Resources\Mobile\Tools;C:\Users\Jyotsna Pandey\AppData\Local\Android\Sdk\tools\bin;C:\Users\Jyotsna Pandey\AppData\Local\Android\Sdk\platform-tools;C:\Users\Jyotsna Pandey\AppData\Local\Android\Sdk\tools;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.6.0\bin;C:\Android;C:\Windows\System32;C:\Users\Jyotsna Pandey\Downloads\gradle-6.2.2-bin\gradle-6.2.2\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\Tailscale\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Jyotsna Pandey\AppData\Local\Microsoft\WindowsApps;C:\Users\Jyotsna Pandey\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8\bin;C:\Users\Jyotsna Pandey\AppData\Local\Programs\Fiddler;;."/>
+    <property name="maven.conf" value="C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="65.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Jyotsna Pandey"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="21"/>
+    <property name="user.name" value="Jyotsna Pandey"/>
+    <property name="java.class.path" value="C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test verify -Dcucumber.options=--tags @DeletePlace"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="21.0.5"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Jyotsna Pandey\Downloads\apache-maven-3.8.8-bin\apache-maven-3.8.8"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2024-10-15"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Validating place API&apos;s" name="Verify if place is being successfully added using AddPlaceAPI" time="7.16"/>
+  <testcase classname="Validating place API&apos;s" name="Verify if delete place functionality is working" time="1.934"/>
+</testsuite>
