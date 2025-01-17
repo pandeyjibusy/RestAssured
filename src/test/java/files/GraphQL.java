@@ -48,6 +48,8 @@ public class GraphQL {
 				System.out.println("Rsponse2 : "+gs1);
 				
 				System.out.println("response above is querry");
+				System.out.println("Spelling of query is query not querry");
+				
 		
 	}
 
