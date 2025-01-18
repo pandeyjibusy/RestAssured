@@ -46,13 +46,6 @@ public class GraphQL {
 				JsonPath js1 = new JsonPath(mutresponse);
 				String gs1 = js1.getString("data.createLocation.id");
 				System.out.println("Rsponse2 : "+gs1);
-				
-				System.out.println("response above is querry");
-				System.out.println("Spelling of query is query not querry");
-				System.out.println("ok boss");
-				//adding started to new branc
-				System.out.println("let make something usefull");
-				System.out.println("yes agreeing to the point");
 		
 	}
 
